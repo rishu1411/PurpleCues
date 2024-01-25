@@ -1,7 +1,7 @@
 'use client'
 import React, { useEffect, useState } from 'react'
 import Image from 'next/image'
-import FB from '../Assests/Icons/FbBlue.svg'
+import FB from '../Assests/Icons/FbBLue.svg'
 import Google from '../Assests/Icons/Google-Colour.svg'
 import Eye1 from '../Assests/Icons/Password.svg'
 import LockIcon from '@mui/icons-material/Lock';
